@@ -2,7 +2,7 @@ package com.joshua;
 
 import java.util.List;
 
-public class FP01Structured {
+public class FP02Structured {
 
     public static void main(String[] args) {
         // write your code here

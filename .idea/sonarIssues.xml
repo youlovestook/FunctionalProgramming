@@ -3,7 +3,22 @@
   <component name="issues">
     <option name="index">
       <map>
+        <entry key="$PROJECT_DIR$/out/production/functional-programming-with-java/com/joshua/FP01Structured.class">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/joshua/FP01Exercises.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/com/joshua/FP01Functional.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/joshua/FP01Squares.java">
           <value>
             <set />
           </value>
